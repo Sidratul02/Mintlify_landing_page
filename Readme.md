@@ -1,4 +1,4 @@
-## Mintlyfy Landing Page Clone
+## Mintlify Landing Page Clone
 This is a desktop-focused landing page inspired by Mintlify. It is designed mainly for large screens and follows a documentation-style layout with clear text structure. The design focuses on readability and organization on desktop devices. Mobile responsiveness is not included, as the main goal is a clean and well-structured desktop experience.
 
 ## Preview Image
